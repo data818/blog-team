@@ -128,3 +128,14 @@ table {
   border-spacing: 0;
 }
 /* ! code */
+@font-face {
+  font-family: "deca";
+  src: url("../assets/fonts/LexendDeca.ttf");
+}
+body {
+  font-family: "deca", Arial, Helvetica, sans-serif;
+}
+a {
+  text-decoration: none;
+  color: red;
+}
